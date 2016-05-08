@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0D9910AF-C2F4-F6A0-6155-D5B933D076EA}") = "Laser Defender Unity 5", "Assembly-CSharp.csproj", "{E5AF0F61-9D74-B8A6-E15F-37A82854A4FB}"
+EndProject
+Project("{0D9910AF-C2F4-F6A0-6155-D5B933D076EA}") = "Laser Defender Unity 5", "Assembly-UnityScript-firstpass.unityproj", "{5A846A97-7BA7-0525-0285-88FC0379D0C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5AF0F61-9D74-B8A6-E15F-37A82854A4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AF0F61-9D74-B8A6-E15F-37A82854A4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AF0F61-9D74-B8A6-E15F-37A82854A4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AF0F61-9D74-B8A6-E15F-37A82854A4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A846A97-7BA7-0525-0285-88FC0379D0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A846A97-7BA7-0525-0285-88FC0379D0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A846A97-7BA7-0525-0285-88FC0379D0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A846A97-7BA7-0525-0285-88FC0379D0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
